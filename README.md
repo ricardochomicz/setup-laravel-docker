@@ -1,5 +1,5 @@
 
-# Setup Docker Para Projetos Laravel (8, 9 ou 10)
+# Setup Docker Para Projetos Laravel
 
 ### Passo a passo
 Clone Repositório

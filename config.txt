@@ -1,0 +1,7 @@
+cp -r "pasta/*" "project laravel" (copia todos os arquivos para o projeto laravel)
+
+rm -rf .git (remove o versionamento)
+
+docker-compose up -d (sobe os containers)
+
+docker-compose exec "app" bash (app -> image project em services no arquivo docker-compose)
